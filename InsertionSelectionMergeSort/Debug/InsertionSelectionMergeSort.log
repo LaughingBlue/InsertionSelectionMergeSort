@@ -1,0 +1,3 @@
+﻿  InsertionSelectionMergeSort.cpp
+d:\blueknight\workspace\visual studio 2015\projects\insertionselectionmergesort\insertionselectionmergesort\insertionselectionmergesort.cpp(19): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  InsertionSelectionMergeSort.vcxproj -> D:\BlueKnight\workspace\visual studio 2015\Projects\InsertionSelectionMergeSort\Debug\InsertionSelectionMergeSort.exe
